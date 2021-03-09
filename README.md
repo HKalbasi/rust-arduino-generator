@@ -4,7 +4,7 @@ Bootstrap arduino projects in rust
 ## Usage
 1. Init a new project using this template:
    ```
-   cargo generate --git https://github.com/rustwasm/wasm-pack-template.git
+   cargo generate --git https://github.com/HKalbasi/rust-arduino-generator
    ```
    [Learn how to install and more about `cargo generate` here.](https://github.com/ashleygwilliams/cargo-generate)
 2. Put your code in `src/main.rs` ([see examples](https://github.com/Rahix/avr-hal/blob/master/boards/arduino-uno/examples))
