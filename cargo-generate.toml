@@ -1,0 +1,5 @@
+[placeholders.device]
+type = "string"
+prompt = "What is your device?"
+choices = ["arduino-uno", "arduino-leonardo"]
+default = "arduino-uno"
