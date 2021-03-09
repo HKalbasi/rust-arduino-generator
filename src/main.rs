@@ -23,5 +23,6 @@ fn main() -> ! {
 
     loop {
         // TODO: Your code here
+        // See examples at https://github.com/Rahix/avr-hal/blob/master/boards/arduino-uno/examples
     }
 }
