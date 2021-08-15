@@ -1,3 +1,6 @@
+Please use [avr-hal-template](https://github.com/Rahix/avr-hal-template) since it has support for more arduino boards and
+it is better maintained.
+
 # rust-arduino-generator
 Bootstrap arduino projects in rust
 
